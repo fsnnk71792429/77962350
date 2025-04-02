@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 Class.forName(driverClass);
 Class.forName(driverClass);
 String url = props.getProperty("db.url");
